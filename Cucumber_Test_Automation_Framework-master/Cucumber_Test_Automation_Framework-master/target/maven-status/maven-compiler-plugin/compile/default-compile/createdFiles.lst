@@ -1,0 +1,13 @@
+managers\WebDriverManager$1.class
+pageobjects\ProductsPage.class
+pageobjects\AddToCartPage.class
+enums\EnvironmentType.class
+managers\FileReaderManager.class
+pageobjects\HomePage.class
+dataProvider\ConfigFileReader.class
+managers\WebDriverManager.class
+enums\DriverType.class
+pageobjects\LoginPage.class
+pageobjects\ShoppingCartPage.class
+managers\PageObjectManager.class
+pageobjects\CheckOutPage.class

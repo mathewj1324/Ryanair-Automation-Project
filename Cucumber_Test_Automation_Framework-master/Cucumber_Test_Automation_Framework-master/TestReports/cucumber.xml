@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="168.349253">
+<testcase classname="End to End Functional Test" name="Automating booking of a flight in Ryanair Website" time="168.349253">
+<system-out><![CDATA[Given user is on Home Page..................................................passed
+When user login the ryan air application with username and password.........passed
+And user selecting one way trip.............................................passed
+And user entering destination as " Berlin Brandenburg ".....................passed
+And user entering departure date as "2020-12-04"............................passed
+And user entering adult count as "2" ,child count as "1" and infant count as "0".passed
+And user clicks search button...............................................passed
+And selecting a ticket and selecting fare...................................passed
+And entering Adult1 details as "Mr Mathew Jose".............................passed
+And entering Adult2 details as "Mr Jose Mathew".............................passed
+And entering Child1 details as "Mr Mathew Sebastian"........................passed
+And clicking on Continue button.............................................passed
+And selecting seats.........................................................passed
+And selecting baggage type..................................................passed
+And selecting shopping cart and checkout....................................passed
+And entering contact details................................................passed
+Then User should be asked to login before checkout..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
