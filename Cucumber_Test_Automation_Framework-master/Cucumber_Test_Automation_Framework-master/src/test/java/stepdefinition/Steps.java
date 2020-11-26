@@ -157,11 +157,6 @@ public class Steps {
 		checkOutPage.clicksOnProceedCheckPOut();	
 	}
 	
-	@Then("^User should be asked to login before checkout$")
-	public void enterPersonalDetailsOnLoginPage() throws InterruptedException {
-		/*
-		 * loginPage.loginToCheckOut(); homePage.closeBrowser();
-		 */
-	}
+	
 
 }
