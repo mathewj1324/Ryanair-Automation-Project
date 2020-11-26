@@ -18,6 +18,6 @@ Scenario: Automating booking of a flight in Ryanair Website
 		And selecting baggage type
 		And selecting shopping cart and checkout
 		And entering contact details
-		Then User should be asked to login before checkout
+		
 	
    
