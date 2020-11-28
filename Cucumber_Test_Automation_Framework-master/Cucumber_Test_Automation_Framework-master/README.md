@@ -1,7 +1,7 @@
 # Introduction
 ## Consider the following user story:
-As a client I want to search for a product and add to the shopping cart of www.Amazon.com. 
-And User should be asked to login when user proceeds to check out the product from shopping cart.
+As a customer I want to book a flight and add to the shopping cart of https://www.ryanair.com/ie/en. 
+
 
 Based on the above user story, to automate the end to end testing, Cucumber test automation framework is developed using java and selenium
 # What makes the cucumber Test automation Framework a robust one?
